@@ -1,7 +1,7 @@
 
 const siteconfig = {
   title: 'My Site',
-  textOnLogo: 'DekhoDost'
+  textOnLogo: 'Shivam'
 }
 
 export default siteconfig

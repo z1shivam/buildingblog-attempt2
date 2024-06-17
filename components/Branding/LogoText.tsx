@@ -35,7 +35,7 @@ export default function LogoText({
 
   return (
     <span
-      className={cn(`pt-1 font-bold ${textColor} ${textSizeClass}`, classname, skranji.className)}
+      className={cn(`pt-2 font-bold ${textColor} ${textSizeClass}`, classname, skranji.className)}
     >
       {siteconfig.textOnLogo}
     </span>
